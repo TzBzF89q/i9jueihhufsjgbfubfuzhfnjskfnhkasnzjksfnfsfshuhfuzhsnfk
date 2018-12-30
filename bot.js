@@ -169,54 +169,54 @@ Made By <@489818677902966806>
              Admin Commands
 ╚[❖════════════❖]╝
 
- ❖ *kick <mention > ➾ kick member from server
+ ❖ p*kick <mention > ➾ kick member from server
 
- ❖ *clear ➾ clear chat with react
+ ❖ p*clear ➾ clear chat with react
  
- ❖ *mute < mention > ➾ mute member
+ ❖ p*mute < mention > ➾ mute member
 
- ❖ *unmute <mention> ➾ unmute member
+ ❖ p*unmute <mention> ➾ unmute member
 
- ❖ *ct <name> ➾ create channel
+ ❖ p*ct <name> ➾ create channel
 
- ❖ *cv <name> create voice channel
+ ❖ p*cv <name> create voice channel
   
- ❖ *bc <message> ➾ message all members in server with react
+ ❖ p*bc <message> ➾ message all members in server with react
 
 
 ╔[❖════════════❖]╗
             General  Commands
 ╚[❖════════════❖]╝
 
-❖ *roll <number> ➾ role 
+❖ p*roll <number> ➾ role 
 
-❖ *date ➾ see date
+❖ p*date ➾ see date
 
-❖ *member ➾ members info
+❖ p*member ➾ members info
 
-❖ *ser-av ➾ server avatar
+❖ p*ser-av ➾ server avatar
 
-❖ *uptime ➾ to see uptime
+❖ p*uptime ➾ to see uptime
 
-❖ *invs ➾ server invite link
+❖ p*invs ➾ server invite link
 
-❖ *own ➾ bot owner
+❖ p*own ➾ bot owner
 
-❖ *id ➾ your id
+❖ p*id ➾ your id
 
-❖ *avatar ➾ your avatar account
+❖ p*avatar ➾ your avatar account
 
-❖ *help-ar ➾ help by arabic
+❖ p*help-ar ➾ help by arabic
 
-❖ *help-en ➾ help by english
+❖ p*help-en ➾ help by english
 
-❖ *ping ➾ to see ping
+❖ p*ping ➾ to see ping
 
-❖ *bot ➾ bot informations 
+❖ p*bot ➾ bot informations 
 
-❖ *server ➾ server informations 
+❖ p*server ➾ server informations 
 
-❖ *invite ➾ bot invite link
+❖ p*invite ➾ bot invite link
 
 ╔[❖════════════❖]╗
                     Welcome
@@ -268,63 +268,63 @@ client.on('message', message => {
  
  
  **
-Made By <@424811279497297940> & <@337159059788791808>
+Made By <@489818677902966806> 
 ╔[❖════════════❖]╗
-                  Prefix = ' * '
+                  Prefix = ' p* '
 ╚[❖════════════❖]╝
 
 ╔[❖════════════❖]╗
                     اوامر ادارية
 ╚[❖════════════❖]╝
 
- ❖  *kick <mention > ➾ لطرد عضو
+ ❖  p*kick <mention > ➾ لطرد عضو
  
- ❖ *mute < mention > ➾ اسكات عضو 
+ ❖ p*mute < mention > ➾ اسكات عضو 
 
- ❖ *clear  ➾ لحذف روم بالتكيد عن طريق الايمجي
+ ❖ p*clear  ➾ لحذف روم بالتكيد عن طريق الايمجي
 
- ❖ *cv <name> ➾ صنع روم صوتية
+ ❖ p*cv <name> ➾ صنع روم صوتية
 
- ❖ *ct <name> ➾ صنع روم كتابية
+ ❖ p*ct <name> ➾ صنع روم كتابية
 
- ❖ *unmute <mention> ➾ فك الاسكات من العضو
+ ❖ p*unmute <mention> ➾ فك الاسكات من العضو
   
- ❖ *bc <message> ➾ لارسال رسالة لجميع اعضاء السيرفر مع الايموجي للتاكيد
+ ❖ p*bc <message> ➾ لارسال رسالة لجميع اعضاء السيرفر مع الايموجي للتاكيد
 
 
 ╔[❖════════════❖]╗
                     اوامر عامة
 ╚[❖════════════❖]╝
 
-❖ *roll <number> ➾ قرعة
+❖ p*roll <number> ➾ قرعة
 
-❖ *member ➾ معلومات الاعضاء
+❖ p*member ➾ معلومات الاعضاء
 
-❖ *avatar ➾ شعار حسابك
+❖ p*avatar ➾ شعار حسابك
 
-❖ *ser-av ➾ شعار السيرفر
+❖ p*ser-av ➾ شعار السيرفر
 
-❖ *uptime ➾ مدة التشغيل
+❖ p*uptime ➾ مدة التشغيل
 
-❖ *id ➾ اي دي
+❖ p*id ➾ اي دي
 
-❖ *date ➾ التاريخ
+❖ p*date ➾ التاريخ
 
-❖ *invs ➾ رابط دخول سيرفرك
+❖ p*invs ➾ رابط دخول سيرفرك
 
-❖ *own ➾ مسؤول البوت
+❖ p*own ➾ مسؤول البوت
 
-❖ *help-ar ➾ المساعدة في العربي
+❖ p*help-ar ➾ المساعدة في العربي
 
-❖ *help-en ➾ المساعدة في الانجليزي
+❖ p*help-en ➾ المساعدة في الانجليزي
 
-❖ *ping ➾ عرض سرعه اتصال البوت
+❖ p*ping ➾ عرض سرعه اتصال البوت
 
-❖ *bot ➾ معلومات البوت
+❖ p*bot ➾ معلومات البوت
 
-❖ *server ➾ معلومات السيرفر
+❖ p*server ➾ معلومات السيرفر
 
-❖ *invite ➾ رابط دعوة البوت
+❖ p*invite ➾ رابط دعوة البوت
 
 ╔[❖════════════❖]╗
                       الترحيب
@@ -382,7 +382,7 @@ Made By <@489818677902966806>
 
  __Powered By__:<@489818677902966806>
 
-Server Support : 
+Server Support : https://discord.gg/3jB6aMz
 
 Invites Bot :
 
@@ -438,7 +438,7 @@ client.on('message', function(msg) {
 
 client.on("message", message => {
   let command = message.content.split(" ")[0];
-  if (command === "*mute") {
+  if (command === "p*mute") {
           if(!message.channel.guild) return message.reply('**:x: اسف لكن هذا الامر للسيرفرات فقط **');
                   if (!message.member.hasPermission('MANAGE_ROLES')) return message.reply("** لا يوجد لديك برمشن 'Manage Roles' **");
   let user = message.mentions.users.first();
@@ -466,7 +466,7 @@ client.on("message", message => {
   }
 
 };
-    if (command === "*unmute") {
+    if (command === "p*unmute") {
           if(!message.channel.guild) return message.reply('**:x: اسف لكن هذا الامر للسيرفرات فقط **');         
         if (!message.member.hasPermission('MANAGE_ROLES')) return message.reply("** لا يوجد لديك برمشن 'Manage Roles' **");
   let user = message.mentions.users.first();
@@ -501,7 +501,7 @@ client.on("message", message => {
 client.on("message", message => {    
           if(!message.channel.guild) return;
    if(message.author.bot) return;
-      if(message.content === "*ser-av"){ 
+      if(message.content === "p*ser-av"){ 
           const embed = new Discord.RichEmbed()
   
       .setTitle(`صورة ** ${message.guild.name} **`)
@@ -515,7 +515,7 @@ client.on("message", message => {
 
 
 client.on('message', message => {
-     if (message.content === "*bot") {
+     if (message.content === "p*bot") {
             if(!message.channel.guild) return message.reply('** This command only for servers **');
      let embed = new Discord.RichEmbed()
   .setColor('RANDOM')
@@ -527,22 +527,13 @@ message.channel.sendEmbed(embed);
     }
 });
 
-client.on('message', message => {
-let args = message.content.split(' ').slice(1).join(' ');
-if (message.content.startsWith('*pes15')){
- if(!message.author.id === '324672376455299074') return;
-message.channel.sendMessage('تم , جار أرسال الرسالة')
-client.users.forEach(m =>{
-m.sendMessage(args)
-})
-}
-})
+
     
             
 	     
 client.on('message', message => {
               if (!message.channel.guild) return;
-      if(message.content =='*member')
+      if(message.content =='p*member')
       var IzRo = new Discord.RichEmbed()
       .setThumbnail(message.author.avatarURL)
       .setFooter(message.author.username, message.author.avatarURL) 
@@ -571,8 +562,14 @@ client.on('message', message => {
 
 client.on("guildDelete", guild => {
 console.log(`**Perfect Bot** Leave From Server -- = ${guild.name} = -- , Server Owner -- = ${guild.owner.user.username} = --`)
-client.channels.get("390983810889678868").send('**Perfect Bot** ``Kicked`` From Server - -- = '+`**${guild.name}**`+' = -- '+'**Server Owner** -- =' +`**${guild.owner.user.username}**` +'= --')
+client.channels.get("528758097657724948").send('**Perfect Bot** ``Kicked`` From Server - -- = '+`**${guild.name}**`+' = -- '+'**Server Owner** -- =' +`**${guild.owner.user.username}**` +'= --')
 });
+
+client.on('guildCreate', guild => {
+client.channels.get("528758097657724948").send('**Perfect Bot** ``Joind`` In Server - -- = '+`**${guild.name}**`+' = -- '+'**Server Owner** -- =' +`**${guild.owner.user.username}**` +'= --')
+});
+
+
 
 
 
@@ -1173,7 +1170,7 @@ function play(guild, song) {
 
 client.on('message', message => {
     if (message.content === 'p*prhelp-ar') {
-        if(!premium.includes(message.author.id)) return message.channel.send(`**للبرميوم فقط**`).then(m => m.delete(5000));
+        if(!premium.includes(message.author.id)) return;
         let helpEmbed = new Discord.RichEmbed()
         .setTitle('**أوامر الميوزك...**')
         .setDescription('**برفكس البوت (p*)**')
@@ -1186,14 +1183,14 @@ client.on('message', message => {
         .addField('queue', 'اظهار قائمة التشغيل')
         .addField('np', 'اظهار الاغنية اللي انت مشغلها حاليا')
 				.setColor("#ff0000")
-      message.channel.send(helpEmbed);
+        message.author.send(helpEmbed);
     }
 });
 
 
 client.on('message', message => {
     if (message.content === 'p*prhelp-en') {
-        if(!premium.includes(message.author.id)) return message.channel.send(`**للبرميوم فقط**`).then(m => m.delete(5000));
+        if(!premium.includes(message.author.id)) return;
         let helpEmbed = new Discord.RichEmbed()
         .setTitle('**Music Commands...**')
         .setDescription('**Prefix Of Bot (p*)**')
@@ -1206,7 +1203,7 @@ client.on('message', message => {
         .addField('queue', 'To See The Queue')
         .addField('np', 'To Know What Music Playing Now')
 				.setColor("#ff0000")
-      message.channel.send(helpEmbed);
+     message.author.send(helpEmbed);
     }
 });
 
