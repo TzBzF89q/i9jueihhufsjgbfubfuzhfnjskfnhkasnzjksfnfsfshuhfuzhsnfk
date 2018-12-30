@@ -326,6 +326,8 @@ Made By <@489818677902966806>
 
 ❖ p*invite ➾ رابط دعوة البوت
 
+❖ p*support ➾ رابط سيرفر السبورت
+
 ╔[❖════════════❖]╗
                       الترحيب
 ╚[❖════════════❖]╝
@@ -384,7 +386,7 @@ Made By <@489818677902966806>
 
 Server Support : https://discord.gg/3jB6aMz
 
-Invites Bot :
+Invites Bot : https://discordapp.com/oauth2/authorize?client_id=528390233499107338&permissions=8&scope=bot
 
 `);
 
@@ -399,7 +401,7 @@ client.on('message', message => {
 
 
  message.author.sendMessage(`
-Made By <@424811279497297940> & <@337159059788791808>
+Made By <@489818677902966806>
  
 بامكانك دعوة البوت من هنا
 
@@ -413,6 +415,26 @@ message.channel.send('**تم الارسال في الخاص**');
     }
 });
 
+
+client.on('message', message => {
+    if (message.author.bot) return;
+     if (message.content === prefix + "support") {
+
+
+ message.author.sendMessage(`
+ 
+Made By <@489818677902966806>
+
+Server Support : https://discord.gg/3jB6aMz
+
+Invites Bot : https://discordapp.com/oauth2/authorize?client_id=528390233499107338&permissions=8&scope=bot
+
+`);
+
+message.channel.send('**تم الارسال في الخاص**');
+
+    }
+});
 
 client.on('message', function(msg) {
     if(msg.content.startsWith (prefix  + 'server')) {
@@ -554,7 +576,7 @@ client.on('message', message => {
     if (message.author.bot) return;
      if (message.content === prefix + "help") {
 	    
-                        message.channel.send('**Choose**: *help-ar ➾ arabic | *help-en ➾ english');
+                        message.channel.send('**Choose**: p*help-ar ➾ arabic | p*help-en ➾ english');
 
     }
 });
